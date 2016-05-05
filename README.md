@@ -1,5 +1,3 @@
 # testGit
-uczymy sie
 
-
-zmiana pliku
+nie jest to najwyzszych lotow
